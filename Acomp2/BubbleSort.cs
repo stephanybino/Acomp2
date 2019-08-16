@@ -1,4 +1,4 @@
-﻿namespace Acomp2
+﻿                namespace Acomp2
 {
     class BubbleSort : ISort
     {
